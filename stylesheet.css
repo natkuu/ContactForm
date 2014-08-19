@@ -1,0 +1,47 @@
+body {
+    font-family: 'Ubuntu', sans-serif;
+    background-color: #333;
+    color: black;
+}
+h1 {
+    color: #fe9d00;
+    font-size: 2em;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 200;
+}
+.containter {
+    float: left;
+    margin-left: 10%;
+}
+.form {
+    border: 2px solid #20818c;
+    padding: 10px 20px 10px 20px;
+    border-radius: 5px;
+}
+
+input {
+    border: 2px solid #fe9d00;
+    line-height: 26px;
+    border-radius: 5px;
+    padding-left: 5px;
+}
+input.length {
+    width: 200px;
+}
+textarea {
+    border: 2px solid #fe9d00;
+    width: 200px;
+    height: 200px;
+    border-radius: 5px;
+    padding-left: 5px;
+}
+button {
+    background-color: #fe9d00;
+    border: #fe9d00;
+    max-width: 50px;
+    margin-left: 40%;
+    margin-right: 50%;
+}
+p {
+    color: #fe9d00;
+}
